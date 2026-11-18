@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon GT",
+  "description": "Game balapan 3D realistis dengan beragam sirkuit dan sudut kamera dinamis saat berkendara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
